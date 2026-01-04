@@ -336,6 +336,17 @@ body {
   font-size: 14px;
 }
 
+.footer a {
+  color: #9db7ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 /* ===========================
    MOBILE OPTIMISATION
    =========================== */
